@@ -27,7 +27,7 @@ Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações.
 
 Desenvolvido por **[Fred]** 
 
-Link do Projeto: [https://github.com/fredsons/form-wizard-multi-etapas](https://github.com/fredsons/form-wizard-multi-etapas)
+Link do Projeto: [https://form-multi-steps-rho.vercel.app/](https://form-multi-steps-rho.vercel.app/)
 
 ---
 
