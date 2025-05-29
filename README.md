@@ -1,18 +1,34 @@
-Formulário Multi-Etapas (Wizard) 📝
 
-Um formulário multi-etapas avançado para inscrição em eventos, desenvolvido com HTML, CSS, Bootstrap e jQuery. Este projeto divide um formulário longo em etapas gerenciáveis, melhorando significativamente a experiência do usuário e as taxas de conclusão.
+# Formulário Multi-Etapas (Wizard) 📝
 
-Abra um Pull Request
-📝 Possíveis Melhorias Futuras
-Tradução para múltiplos idiomas
-Implementação de um backend real para processamento do formulário
-Modo escuro/claro
-Suporte para pagamento online integrado
-Geração de PDF do comprovante de inscrição
-📄 Licença
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
+Um formulário multi-etapas avançado e interativo para inscrição em eventos, construído com HTML5, CSS3, Bootstrap 5 e jQuery. Este projeto visa melhorar a experiência do usuário ao dividir formulários longos em seções menores e mais gerenciáveis, incorporando validações robustas, salvamento de progresso e integrações com APIs.
 
-👨‍💻 Autor
-Desenvolvido por Seu Nome
+<!-- Substitua pelo seu screenshot/GIF -->
+![image](https://github.com/user-attachments/assets/454c729e-75c6-4da8-87b6-da90fccbe2af)
 
-⭐️ Se este projeto foi útil para você, considere dar uma estrela no GitHub! ⭐️
+.
+5.  Abra um Pull Request.
+
+## 📝 Possíveis Melhorias Futuras
+
+-   [ ] Implementar um backend real (Node.js, Python/Flask, PHP, etc.) para processar os dados.
+-   [ ] Adicionar opção de upload de arquivos (ex: foto do participante).
+-   [ ] Integrar com um gateway de pagamento real.
+-   [ ] Suporte a múltiplos idiomas (i18n).
+-   [ ] Tema escuro/claro.
+-   [ ] Geração de PDF do comprovante de inscrição.
+-   [ ] Testes unitários e de integração.
+
+## 📄 Licença
+
+Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações.
+
+## 👨‍💻 Autor
+
+Desenvolvido por **[Fred]** 
+
+Link do Projeto: [https://github.com/fredsons/form-wizard-multi-etapas](https://github.com/fredsons/form-wizard-multi-etapas)
+
+---
+
+⭐️ Se este projeto foi útil para você, considere dar uma estrela! ⭐️
